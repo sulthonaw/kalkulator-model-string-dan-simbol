@@ -1,6 +1,8 @@
 # kalkulator-model-string-dan-simbol
 Kalkulator sederhana dengan model inputan string dan simbol menggunakan bahasa pemrograman c#
 
+![](https://github.com/sulthonaw/kalkulator-model-string-dan-simbol/blob/main/assets/D__titip_kalkulator-model-string-dan-simbol_bin_Debug_net7.0_ModelStringDanSimbol.gif)
+
 ### Contoh
 ```
 *Note
